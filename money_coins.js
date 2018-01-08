@@ -11,3 +11,5 @@ function money_coins(num) {
 }
 
 console.log(money_coins(74));
+console.log(money_coins(10500));
+console.log(money_coins(15300));
