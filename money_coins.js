@@ -18,9 +18,8 @@ function money_coins(num) {
       }
     }
 
-
   }
   console.log(arrReceh)
 }
 
-money_coins(10000)
+money_coins(5000)
